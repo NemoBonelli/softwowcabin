@@ -1,5 +1,11 @@
 User-agent: *
 Allow: /
-Disallow: /softwowcabin/guest.html
+Disallow: /guest.html
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
 
 Sitemap: https://nemobonelli.github.io/softwowcabin/sitemap.xml

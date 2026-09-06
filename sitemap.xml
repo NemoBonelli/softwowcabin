@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://nemobonelli.github.io/softwowcabin/</loc></url>
-  <url><loc>https://nemobonelli.github.io/softwowcabin/en/</loc></url>
-  <url><loc>https://nemobonelli.github.io/softwowcabin/fr/</loc></url>
-  <url><loc>https://nemobonelli.github.io/softwowcabin/de/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nemobonelli.github.io/softwowcabin/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nemobonelli.github.io/softwowcabin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nemobonelli.github.io/softwowcabin/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nemobonelli.github.io/softwowcabin/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nemobonelli.github.io/softwowcabin/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nemobonelli.github.io/softwowcabin/en/"/>
+  </url>
+  <url>
+    <loc>https://nemobonelli.github.io/softwowcabin/en/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nemobonelli.github.io/softwowcabin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nemobonelli.github.io/softwowcabin/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nemobonelli.github.io/softwowcabin/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nemobonelli.github.io/softwowcabin/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nemobonelli.github.io/softwowcabin/en/"/>
+  </url>
+  <url>
+    <loc>https://nemobonelli.github.io/softwowcabin/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nemobonelli.github.io/softwowcabin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nemobonelli.github.io/softwowcabin/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nemobonelli.github.io/softwowcabin/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nemobonelli.github.io/softwowcabin/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nemobonelli.github.io/softwowcabin/en/"/>
+  </url>
+  <url>
+    <loc>https://nemobonelli.github.io/softwowcabin/de/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nemobonelli.github.io/softwowcabin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nemobonelli.github.io/softwowcabin/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nemobonelli.github.io/softwowcabin/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nemobonelli.github.io/softwowcabin/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nemobonelli.github.io/softwowcabin/en/"/>
+  </url>
+  <url>
+    <loc>https://nemobonelli.github.io/softwowcabin/ski-sauze-doulx/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nemobonelli.github.io/softwowcabin/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nemobonelli.github.io/softwowcabin/en/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nemobonelli.github.io/softwowcabin/fr/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nemobonelli.github.io/softwowcabin/de/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nemobonelli.github.io/softwowcabin/en/ski-sauze-doulx/"/>
+  </url>
+  <url>
+    <loc>https://nemobonelli.github.io/softwowcabin/en/ski-sauze-doulx/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nemobonelli.github.io/softwowcabin/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nemobonelli.github.io/softwowcabin/en/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nemobonelli.github.io/softwowcabin/fr/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nemobonelli.github.io/softwowcabin/de/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nemobonelli.github.io/softwowcabin/en/ski-sauze-doulx/"/>
+  </url>
+  <url>
+    <loc>https://nemobonelli.github.io/softwowcabin/fr/ski-sauze-doulx/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nemobonelli.github.io/softwowcabin/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nemobonelli.github.io/softwowcabin/en/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nemobonelli.github.io/softwowcabin/fr/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nemobonelli.github.io/softwowcabin/de/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nemobonelli.github.io/softwowcabin/en/ski-sauze-doulx/"/>
+  </url>
+  <url>
+    <loc>https://nemobonelli.github.io/softwowcabin/de/ski-sauze-doulx/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nemobonelli.github.io/softwowcabin/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nemobonelli.github.io/softwowcabin/en/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nemobonelli.github.io/softwowcabin/fr/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nemobonelli.github.io/softwowcabin/de/ski-sauze-doulx/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nemobonelli.github.io/softwowcabin/en/ski-sauze-doulx/"/>
+  </url>
 </urlset>
