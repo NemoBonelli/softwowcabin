@@ -1,0 +1,7 @@
+Soft Wow Cabin v58 — Winter page refinement
+- New winter hero photo: snowboard in blown snow (user-supplied IMG_9312.jpeg).
+- Added the same Vialattea interactive piste-map preview used on the homepage to all ski landing pages.
+- Forced winter landscape heading to white for legibility.
+- Updated Clotes travel time to 4 minutes; paid parking retained.
+- Added official seasonal ski-bus links: IT /inverno/navetta-urbana/, FR /fr/hiver/navette-urbain/, EN link used for EN and DE.
+- Ski-room photo placeholders preserved for future definitive photography.
