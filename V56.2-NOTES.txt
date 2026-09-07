@@ -1,0 +1,9 @@
+Soft Wow Cabin v56.2 — global consistency review
+
+- Reviewed all 8 HTML pages (IT/EN/FR/DE home + ski) for sleeping-capacity positioning.
+- Removed/verified absence of the old “ideal for two / when needed up to four” positioning.
+- Sleeping copy now consistently presents two double sleeping spaces, up to four guests, with travel cot for a young child.
+- Updated ski-page FAQ answers in all four languages so they no longer reduce the configuration to “one bedroom + sofa bed” without dimensions/context.
+- Aligned EV FAQ copy with the verified offer: private covered parking, Ohme PRO, Type 2 tethered cable, charging included.
+- Existing max-guest structured data remains 4. The travel cot is described as an available family amenity, not as an increase in advertised capacity.
+- No architect credit, children names, custom-domain migration, or unverified new facts added.

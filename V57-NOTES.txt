@@ -1,0 +1,7 @@
+Soft Wow Cabin v57 — Winter Editorial
+
+- Rebuilt all four ski landing pages (IT/EN/FR/DE) as an editorial winter experience.
+- Added strong winter hero, route-to-slopes cards, Vialattea narrative, ski-room photo placeholders, return-home imagery, sleeping configuration and practical winter details.
+- Added two provisional interior photos supplied by owner; they are used only for the return-home/sleep sections, not misrepresented as ski-room photos.
+- Ski-room area intentionally contains two designed placeholders ready for definitive photography.
+- Preserved existing SEO metadata, structured data, canonical/hreflang and booking links.

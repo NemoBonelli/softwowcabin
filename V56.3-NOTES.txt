@@ -1,0 +1,11 @@
+Soft Wow Cabin v56.3 — Ski editorial revision
+
+- Rewrote all four ski landing pages (IT/EN/FR/DE) as useful editorial landing pages rather than generic SEO copy.
+- Added clear route-to-slopes narrative: ski bus ~250 m; Jouvenceaux ~2.8 km/6 min; Clotes ~1.7 km/5 min.
+- Clarified urban ski bus is paid and seasonal; directs guests to official current information rather than hardcoding seasonal timetable/fares.
+- Added Sauze/Sportinia/Vialattea context without promising lift connections when closed.
+- Expanded ski & bike room, Alpineheat boot dryer, covered parking, Ohme PRO Type 2 and e-bike charging details.
+- Added editorial return-home section to restore Soft Wow brand tone.
+- Kept correct sleeping positioning: two double sleeping spaces, up to 4 guests; travel cot available for a small child.
+- Added Grand Villard/centre and arrival/self-check-in context.
+- No changes to canonical domain pending custom-domain decision.
