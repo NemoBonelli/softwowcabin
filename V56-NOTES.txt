@@ -1,0 +1,18 @@
+Soft Wow Cabin v56 — verified details + brand assets
+
+Built on v55.
+Implemented:
+- Official favicon from Soft_Wow_Cabin_Logo_Pack (no recreation) + Apple touch icon + SVG brand asset.
+- Homepage practical facts expanded in IT/EN/FR/DE: exact bed configuration, family equipment, self check-in/access, ski access summary.
+- Ski & bike room copy made concrete from owner-supplied facts: private locked room, Alpineheat boot dryer, e-bike charging, bike storage/supports, changing bench.
+- EV copy made concrete: Ohme PRO, Type 2, tethered cable, charging included; domestic supply limited to 6 kW.
+- Added 'Our mountain home' section in all four languages, in first-person plural. No children named and no family photo.
+- Added direct email contact and changed WhatsApp wording to plural 'Contact us'.
+- Added practical ski-access panel to all four ski landing pages: shuttle ~250 m; Jouvenceaux ~2.8 km/6 min with ticket office/free parking; Clotes ~1.7 km/5 min with paid parking.
+- Added check-in 17:00, check-out 10:00, max capacity 4 and Brand entity to VacationRental structured data where present.
+
+Deliberately NOT changed:
+- custom domain/canonical migration (separate decision and 301 migration);
+- architect/Luca Mostarda credit or project page (owner will speak with him first);
+- children names/photos;
+- new MTB/EV vertical SEO pages; these remain a future editorial expansion, not required for this release.

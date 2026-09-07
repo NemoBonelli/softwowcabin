@@ -1082,3 +1082,8 @@ section.full img[src="complex-from-sauze-hi.jpg"]{object-position:center 62%}sec
   .quick-fact strong{font-size:14px}
   .quick-fact span{font-size:11.5px}
 }
+
+/* v56 — verified practical details + host intro */
+.host-intro-v56,.practical-ski-v56{max-width:980px;margin:0 auto;padding-top:72px;padding-bottom:72px}
+.host-intro-v56 .lead,.practical-ski-v56 .lead{max-width:760px}
+@media(max-width:850px){.host-intro-v56,.practical-ski-v56{padding-top:48px;padding-bottom:48px}}
