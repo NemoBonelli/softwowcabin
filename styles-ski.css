@@ -1064,3 +1064,34 @@ section.full img[src="complex-from-sauze-hi.jpg"]{object-position:center 62%}sec
 /* V60 — winter landscape from the house */
 .winter-home-view{max-width:1240px;margin:0 auto 150px;padding:0 28px;display:grid;grid-template-columns:1.35fr .65fr;gap:46px;align-items:end}.winter-home-view-image{height:650px;border-radius:32px;overflow:hidden}.winter-home-view-image img{width:100%;height:100%;object-fit:cover}.winter-home-view-copy{padding:0 0 22px}.winter-home-view-copy h2,.winter-view-story-head h2{font-size:clamp(44px,5.5vw,78px);line-height:.96;letter-spacing:-.05em;color:#17364e;margin:14px 0 24px}.winter-home-view-copy p,.winter-view-story-head p{font-size:19px;line-height:1.62;color:#586158}.winter-view-story{max-width:1240px;margin:0 auto 160px;padding:0 28px}.winter-view-story-head{max-width:850px;margin:0 0 50px}.winter-view-story-head p{max-width:700px}.winter-view-mosaic{display:grid;grid-template-columns:repeat(12,1fr);grid-auto-rows:310px;gap:14px}.winter-view-mosaic figure{margin:0;border-radius:26px;overflow:hidden}.winter-view-mosaic img{width:100%;height:100%;object-fit:cover;display:block}.winter-view-mosaic .wv-wide:nth-child(1){grid-column:span 8;grid-row:span 2}.winter-view-mosaic .wv-portrait:nth-child(2){grid-column:span 4;grid-row:span 2}.winter-view-mosaic .wv-portrait:nth-child(3){grid-column:span 4;grid-row:span 2}.winter-view-mosaic .wv-portrait:nth-child(4){grid-column:span 4;grid-row:span 2}.winter-view-mosaic .wv-wide:nth-child(5){grid-column:span 4;grid-row:span 2}.winter-sleep-strip{margin-top:22px;padding:30px 0 0;border-top:1px solid rgba(23,54,78,.2);display:grid;grid-template-columns:.6fr 1.1fr 1.3fr;gap:30px;align-items:start}.winter-sleep-strip h3{font-size:27px;line-height:1.1;color:#17364e;margin:0}.winter-sleep-strip p{font-size:15px;line-height:1.55;color:#586158;margin:0}
 @media(max-width:850px){.winter-home-view{grid-template-columns:1fr;gap:28px;margin-bottom:105px;padding:0 18px}.winter-home-view-image{height:62vh;max-height:580px;border-radius:24px}.winter-view-story{padding:0 18px;margin-bottom:110px}.winter-view-mosaic{grid-template-columns:1fr 1fr;grid-auto-rows:260px}.winter-view-mosaic .wv-wide:nth-child(1){grid-column:1/3;grid-row:span 1}.winter-view-mosaic .wv-portrait:nth-child(2),.winter-view-mosaic .wv-portrait:nth-child(3),.winter-view-mosaic .wv-portrait:nth-child(4),.winter-view-mosaic .wv-wide:nth-child(5){grid-column:span 1;grid-row:span 1}.winter-sleep-strip{grid-template-columns:1fr;gap:10px}.winter-sleep-strip h3{font-size:24px}}
+
+/* V60.2 — winter photography: calm editorial rhythm, no collage effect */
+.winter-view-mosaic{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  grid-template-rows:auto;
+  gap:18px;
+}
+.winter-view-mosaic figure{
+  margin:0;
+  border-radius:28px;
+  overflow:hidden;
+  min-width:0;
+  background:#e9e3d8;
+}
+.winter-view-mosaic img{width:100%;height:100%;object-fit:cover;display:block}
+.winter-view-mosaic .wv-wide:nth-child(1){grid-column:1/-1;grid-row:auto;height:min(62vw,690px)}
+.winter-view-mosaic .wv-portrait:nth-child(2),
+.winter-view-mosaic .wv-portrait:nth-child(3){grid-column:auto;grid-row:auto;height:min(58vw,720px)}
+.winter-view-mosaic .wv-portrait:nth-child(4){grid-column:1;grid-row:auto;height:min(52vw,640px)}
+.winter-view-mosaic .wv-wide:nth-child(5){grid-column:2;grid-row:auto;height:min(52vw,640px)}
+.winter-view-mosaic .wv-wide:nth-child(5) img{object-position:center center}
+@media(max-width:850px){
+  .winter-view-mosaic{grid-template-columns:1fr;gap:14px}
+  .winter-view-mosaic .wv-wide:nth-child(1),
+  .winter-view-mosaic .wv-portrait:nth-child(2),
+  .winter-view-mosaic .wv-portrait:nth-child(3),
+  .winter-view-mosaic .wv-portrait:nth-child(4),
+  .winter-view-mosaic .wv-wide:nth-child(5){grid-column:1;grid-row:auto;height:auto;aspect-ratio:auto}
+  .winter-view-mosaic img{width:100%;height:auto;object-fit:contain;background:#e9e3d8}
+}

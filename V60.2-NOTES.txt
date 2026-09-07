@@ -1,0 +1,6 @@
+V60.2 — Winter photo layout correction
+- Reworked the winter panorama gallery on the ski-week pages in all languages.
+- Removed the dense 12-column collage treatment.
+- New editorial rhythm: one large panoramic opener, paired vertical views, then a balanced final pair.
+- Mobile keeps each photograph at its natural ratio to avoid aggressive crops.
+- No copy, links, menu, SEO metadata or photo files changed.
