@@ -1,0 +1,9 @@
+SOFT WOW CABIN — v56.1
+
+Refinement after v56 review:
+- Removed “ideal/pensata for two” positioning from all ski landing pages.
+- Sleeping configuration now clearly states two double sleeping spaces: bedroom 140×190 cm + living sofa bed 140×200 cm.
+- Copy now explicitly supports a couple, two couples or a family; travel cot available for a small child.
+- Quick Facts aligned in IT/EN/FR/DE and enriched: 40 m² / up to 4, two double beds, baby cot, Ohme PRO Type 2 and EV charging included.
+- No children’s names added.
+- All 9 Quick Facts remain present in every language; desktop layout may wrap them onto a second row depending on viewport.
