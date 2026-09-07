@@ -1,0 +1,19 @@
+Soft Wow Cabin v55 — technical/UX base
+
+Implemented without inventing new operational facts:
+- Externalized the accumulated inline CSS into shared styles-home.css and styles-ski.css. Existing CSS was preserved byte-for-byte before v55 additions, reducing repeated inline payload across language pages.
+- Added a compact accessible mobile navigation to all 8 pages while preserving the existing desktop navigation.
+- Added an editorial Quick Facts strip below the homepage hero in IT/EN/FR/DE. No claim that EV charging is free and no unverified wallbox power is stated.
+- Added contextual internal links from the winter/Vialattea section to each localized ski landing page.
+- Linked the mobile menu directly to the existing final stay/booking CTA (#vivila).
+- Changed the WhatsApp CTA from singular personal wording to plural brand-consistent wording in all languages.
+
+Not implemented pending owner input / separate content pass:
+- favicon/apple-touch-icon (needs approved logo asset);
+- exact wallbox connector/power/inclusion policy;
+- exact ski shuttle stop/distance/service details;
+- family/host intro copy or imagery;
+- architect/project page;
+- substantive ski landing-page rewrite;
+- custom domain migration;
+- deeper CSS deduplication/minification after visual regression review.
