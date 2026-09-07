@@ -939,6 +939,74 @@ section.full img[src="complex-from-sauze-hi.jpg"]{object-position:center 62%}sec
 .ctabtns a{display:inline-block;background:#fcf9f2;color:var(--forest);text-decoration:none;font-weight:800;padding:13px 18px;border-radius:999px}
 .ski-back{color:var(--forest);text-decoration:none;font-weight:800}
 @media(max-width:760px){.factgrid{grid-template-columns:1fr 1fr}.skihero{padding:48px 22px}.chapter{padding:70px 24px}}
+
+/* v54 · header/languages + compact coffee */
+.topin{
+  max-width:1320px;
+  margin:auto;
+  padding:12px 26px;
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);
+  align-items:center;
+  gap:22px;
+}
+.brand{justify-self:start}
+.nav{justify-self:end}
+.lang-switch{
+  position:static!important;
+  top:auto!important;
+  right:auto!important;
+  transform:none!important;
+  justify-self:center;
+  z-index:10;
+  background:rgba(255,255,255,.88);
+  backdrop-filter:blur(10px);
+  border:1px solid rgba(23,51,75,.12);
+  border-radius:999px;
+  padding:8px 14px;
+  font-size:.82rem;
+  letter-spacing:.08em;
+  box-shadow:0 8px 24px rgba(23,51,75,.08);
+  white-space:nowrap;
+}
+.lang-switch a{color:inherit;text-decoration:none;opacity:.5}
+.lang-switch a.active{opacity:1;font-weight:700}
+.lang-switch span{opacity:.26;padding:0 5px}
+
+/* Preserve all coffee content, but reduce unnecessary vertical height. */
+.coffee{padding-top:64px!important;padding-bottom:64px!important}
+.coffee-layout{gap:56px!important}
+.coffee-visual{padding:0 44px 54px 0!important}
+.coffee-main{height:560px!important}
+.coffee-small{height:225px!important}
+.coffee-note{padding:14px 0!important}
+
+@media(max-width:1120px){
+  .topin{
+    grid-template-columns:1fr;
+    justify-items:center;
+    gap:9px;
+    padding-top:10px;
+    padding-bottom:10px;
+  }
+  .brand{display:none}
+  .nav{justify-self:center}
+  .lang-switch{justify-self:center}
+}
+@media(max-width:850px){
+  .topin{grid-template-columns:1fr}
+  .nav{display:none}
+  .lang-switch{
+    display:block;
+    padding:7px 11px;
+    font-size:.76rem;
+  }
+  .coffee{padding-top:48px!important;padding-bottom:48px!important}
+  .coffee-visual{padding:0 28px 42px 0!important}
+  .coffee-main{height:500px!important}
+  .coffee-small{height:195px!important}
+}
+
 </style>
 <script type="application/ld+json">{
   "@context": "https://schema.org",

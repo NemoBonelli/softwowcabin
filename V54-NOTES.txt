@@ -1,0 +1,7 @@
+Soft Wow Cabin v54
+- Language selector moved into the header and centered in its oval pill.
+- Responsive header prevents overlap at intermediate widths.
+- Grand Villard caption updated with 15-minute, mostly flat/sunny walk wording.
+- Coffee section compacted vertically without removing content.
+- Equivalent location copy aligned in EN/FR/DE.
+- No SEO structured data removed; v53 geocoordinates retained.
