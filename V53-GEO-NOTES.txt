@@ -1,0 +1,7 @@
+Soft Wow Cabin v53 GEO
+Coordinates added to structured data:
+Latitude: 45.031861
+Longitude: 6.864861
+Source: coordinates supplied by owner (45°01'54.7"N 6°51'53.5"E)
+
+No visual/layout changes were made.
