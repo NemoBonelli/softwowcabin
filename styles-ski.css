@@ -1095,3 +1095,41 @@ section.full img[src="complex-from-sauze-hi.jpg"]{object-position:center 62%}sec
   .winter-view-mosaic .wv-wide:nth-child(5){grid-column:1;grid-row:auto;height:auto;aspect-ratio:auto}
   .winter-view-mosaic img{width:100%;height:auto;object-fit:contain;background:#e9e3d8}
 }
+
+
+/* v61 — same global header + editorial day story + Soft Wow Weather */
+.day-story{max-width:1240px;margin:0 auto;padding:112px 28px 118px}
+.day-story-head{max-width:860px;margin-bottom:62px}
+.day-story-head h2{font-size:clamp(42px,6vw,78px);margin:10px 0 20px}
+.day-story-head p{font-size:20px;max-width:760px;margin:0}
+.day-timeline{border-top:1px solid rgba(23,51,75,.16)}
+.day-step{display:grid;grid-template-columns:110px minmax(0,.9fr) minmax(300px,1.1fr);gap:34px;align-items:center;padding:38px 0;border-bottom:1px solid rgba(23,51,75,.16)}
+.day-step:not(:has(.day-media)){grid-template-columns:110px 1fr}
+.day-time{font-size:15px;font-weight:850;letter-spacing:.08em;color:var(--sage);align-self:start;padding-top:8px}
+.day-copy{position:relative;max-width:650px}
+.day-num{display:block;font-size:11px;letter-spacing:.18em;font-weight:850;color:var(--wood);margin-bottom:10px}
+.day-copy h3{font-size:clamp(28px,3.2vw,46px);margin-bottom:12px}
+.day-copy p{font-size:17px;margin:0;line-height:1.65}
+.day-media img{width:100%;height:290px;object-fit:cover;border-radius:24px;display:block}
+.day-step:nth-child(1) .day-media img{object-position:center 48%}
+.day-step:nth-child(4) .day-media img{object-position:center 36%}
+.day-step:nth-child(6) .day-media img{object-position:center 55%}
+
+.ski-weather{padding:92px 0 96px;background:#dfe4dc;border-top:1px solid rgba(23,51,75,.10);border-bottom:1px solid rgba(23,51,75,.10)}
+.ski-weather .weather-head{max-width:1180px;margin:0 auto 30px;padding:0 24px;display:grid;grid-template-columns:1fr 1fr;gap:52px;align-items:end}
+.ski-weather .weather-head h2{font-size:clamp(44px,5vw,74px);margin-top:8px}
+.ski-weather .weather-head p{font-size:18px;margin:0}
+.ski-weather .weather-frame{width:100%;margin:0;background:#fff;border-radius:0;overflow:hidden;border-top:1px solid rgba(23,51,75,.12);border-bottom:1px solid rgba(23,51,75,.12);box-shadow:none}
+.ski-weather .weather-viewport{width:100%;height:760px;overflow:hidden;background:#f3eee3}
+.ski-weather iframe{transform:scale(.88);transform-origin:top left;width:113.64%!important;height:864px!important;border:0;display:block}
+.ski-weather .weather-fallback{max-width:1180px;margin:auto;padding:14px 24px;font-size:14px;background:transparent}
+.ski-weather .weather-fallback a{color:var(--ink);font-weight:800}
+
+/* Header is deliberately identical in geometry to the homepage. */
+.topin{max-width:1320px!important;margin:auto!important;padding:12px 26px!important;display:grid!important;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr)!important;align-items:center!important;gap:22px!important}
+.brand{justify-self:start!important}
+.nav{justify-self:end!important}
+.lang-switch{position:static!important;top:auto!important;right:auto!important;transform:none!important;justify-self:center!important;z-index:10!important;background:rgba(255,255,255,.88)!important;backdrop-filter:blur(10px)!important;border:1px solid rgba(23,51,75,.12)!important;border-radius:999px!important;padding:8px 14px!important;font-size:.82rem!important;letter-spacing:.08em!important;box-shadow:0 8px 24px rgba(23,51,75,.08)!important;white-space:nowrap!important}
+@media(max-width:1120px){.topin{grid-template-columns:1fr!important;justify-items:center!important;gap:9px!important;padding-top:10px!important;padding-bottom:10px!important}.brand{display:none!important}.nav{justify-self:center!important}.lang-switch{justify-self:center!important}}
+@media(max-width:850px){.topin{display:grid!important;grid-template-columns:auto 1fr auto!important;justify-items:stretch!important;gap:10px!important}.brand{display:none!important}.lang-switch{justify-self:start!important;padding:7px 11px!important;font-size:.76rem!important}.nav{display:none!important}.mobile-menu{display:block!important;justify-self:end!important}.day-story{padding:76px 18px 84px}.day-story-head{margin-bottom:42px}.day-step,.day-step:not(:has(.day-media)){grid-template-columns:74px 1fr;gap:18px}.day-media{grid-column:2}.day-media img{height:auto;border-radius:18px}.ski-weather .weather-head{grid-template-columns:1fr;gap:18px}.ski-weather .weather-viewport{height:650px}.ski-weather iframe{transform:scale(.92);width:108.7%!important;height:707px!important}}
+@media(max-width:520px){.day-step,.day-step:not(:has(.day-media)){grid-template-columns:1fr}.day-time{padding-top:0}.day-media{grid-column:1}.day-copy h3{font-size:30px}}

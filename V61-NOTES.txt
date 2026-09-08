@@ -1,0 +1,7 @@
+Soft Wow Cabin v61 — Winter day story
+
+- Header/menu geometry aligned with homepage on all four ski pages.
+- Language selector retained on ski pages.
+- Added an editorial “typical ski day” narrative: Sage + Boutic beans, car/bus choice, lifts, Vialattea, mountain-hut stop, return to private ski room and evening atmosphere.
+- Replaced the external weather card with Soft Wow WeatherFrame and added a full embedded weather section on the winter page.
+- Existing piste map, winter desk, ski-room placeholders, winter-view photography and practical information preserved.
