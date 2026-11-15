@@ -1,0 +1,1 @@
+V72 — Home page NL/PL con struttura, sezioni, foto e CSS identici alla homepage inglese completa. Guida ospiti invariata, sei lingue. Caricare il contenuto dello ZIP nella root di GitHub Pages.
