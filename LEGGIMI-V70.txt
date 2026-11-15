@@ -1,0 +1,6 @@
+SOFT WOW CABIN v70
+Carica il CONTENUTO di questa cartella nella root del repository GitHub Pages (branch main).
+La voce Area ospiti apre guest-access.html. Password fornita separatamente al proprietario.
+La guida e le credenziali Wi-Fi sono cifrate con AES-GCM, sbloccate nel browser. La protezione con password condivisa NON equivale ad autenticazione server: chi conosce la password puo condividerla. Non inserire codici keybox, serrature o credenziali di sicurezza nella guida.
+Testare da URL HTTPS pubblicato (non necessariamente da file locale).
+La pagina Settimana bianca ha una nuova impaginazione per il blocco Le cose pratiche che fanno la differenza.
